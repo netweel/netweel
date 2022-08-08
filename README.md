@@ -5,3 +5,5 @@
 ![C++](https://img.shields.io/badge/-C++-blueviolet?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blueviolet?style=for-the-badge&logo=Python&logoColor=white)
 ![QML](https://img.shields.io/badge/-QML-blueviolet?style=for-the-badge&logo=QML&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-visual-studio-code-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-jupyter-notebook-blueviolet?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
