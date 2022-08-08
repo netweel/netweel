@@ -2,7 +2,7 @@
 ## I'm Anastasia and a beginner programmer
 
 ### Languages 
-![C++](https://img.shields.io/badge/-C++-#c8a2c8?style=for-the-badge&logo=C%2b%2b&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-#C8A2C8?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-#dda0dd?style=for-the-badge&logo=Python&logoColor=white)
 ![QML](https://img.shields.io/badge/-QML-#dda0dd?style=for-the-badge&logo=QML&logoColor=white)
 ### Tools
