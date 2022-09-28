@@ -13,6 +13,6 @@
 
 ### Connect with me
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/netweel)
-[![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/pum_pumba)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/anastasia._.avelesik)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-white?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/netweel_korlin)
 
